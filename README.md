@@ -1,3 +1,13 @@
+# Exemples bàsics de vue + vuetify
+ * Hi ha una sola pàgina i 3  components (primera versió)
+ * La pàgina inicial carrega el component escollit
+ * Els 3 components fan el mateix, és a dir, fer fetch d'un JSON amb informació i mostrar-la
+   * En aquest cas, és la història de la usabilitat treballada a classe
+ * I a la carpeta components hi ha els tres components. Mireu-los per entendre com es pot treballar amb vue, i amb vue+vuetify
+
+ A continuació deixo la documentació inicial amb tots els enllaços
+
+
 # Vuetify (Default)
 
 This is the official scaffolding tool for Vuetify, designed to give you a head start in building your new Vuetify application. It sets up a base template with all the necessary configurations and standard directory structure, enabling you to begin development without the hassle of setting up the project from scratch.
