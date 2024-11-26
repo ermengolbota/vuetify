@@ -1,39 +1,118 @@
 {
     "IntroduccióHistòrica": [
         {
+            "Any": "1940",
+            "Teòric": "Vannevar Bush",
+            "Contribució": "Va dirigir l'Oficina d'Investigació i Desenvolupament Científic dels EUA (OSRD), coordinant la investigació científica durant la Segona Guerra Mundial, incloent projectes com el Projecte Manhattan.",
+            "URL": "https://en.wikipedia.org/wiki/Vannevar_Bush"
+        },
+        {
             "Any": "1945",
             "Teòric": "Vannevar Bush",
-            "Contribució": "Va proposar el concepte de Memex, precursor dels hiperenllaços i de la navegació moderna."
+            "Contribució": "Va escriure l'assaig 'As We May Think', on va proposar el concepte del Memex, un precursor dels sistemes d'hipertext.",
+            "URL": "https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/"
         },
         {
-            "Any": "1960s",
+            "Any": "1945",
+            "Teòric": "Vannevar Bush",
+            "Contribució": "Va publicar l'informe 'Science, The Endless Frontier', advocant pel suport governamental a la investigació científica i establint les bases per a la creació de la National Science Foundation.",
+            "URL": "https://www.nsf.gov/about/history/nsf50/vbush1945.htm"
+        },
+        {
+            "Any": "1960",
+            "Teòric": "Ivan Sutherland",
+            "Contribució": "Va contribuir significativament al camp de la interacció persona-ordinador i la gràfica 3D, influenciant el desenvolupament posterior en aquestes àrees.",
+            "URL": "https://en.wikipedia.org/wiki/Ivan_Sutherland"
+        },
+        {
+            "Any": "1962",
             "Teòric": "Douglas Engelbart",
-            "Contribució": "Va inventar el ratolí i va demostrar els primers sistemes d'hipertext i col·laboració en línia."
+            "Contribució": "Va publicar 'Augmenting Human Intellect: A Conceptual Framework', establint les bases per a la interacció persona-ordinador.",
+            "URL": "http://dougengelbart.org/content/view/138/000/"
         },
         {
-            "Any": "1970s",
-            "Teòric": "Alan Kay (Xerox PARC)",
-            "Contribució": "Va desenvolupar el concepte de la interfície gràfica d'usuari (GUI) i va influir en el disseny dels sistemes operatius moderns."
+            "Any": "1963",
+            "Teòric": "Ivan Sutherland",
+            "Contribució": "Va desenvolupar Sketchpad, el primer programa de gràfics per ordinador interactiu, establint les bases per a la gràfica per ordinador moderna.",
+            "URL": "https://en.wikipedia.org/wiki/Sketchpad"
         },
         {
-            "Any": "1980s",
+            "Any": "1963",
+            "Teòric": "Douglas Engelbart",
+            "Contribució": "Va inventar el ratolí d'ordinador, revolucionant la manera com interactuem amb els ordinadors.",
+            "URL": "https://en.wikipedia.org/wiki/Douglas_Engelbart"
+        },
+        {
+            "Any": "1968",
+            "Teòric": "Ivan Sutherland",
+            "Contribució": "Va crear 'The Sword of Damocles', considerat el primer sistema de realitat virtual i augmentada.",
+            "URL": "https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)"
+        },
+        {
+            "Any": "1968",
+            "Teòric": "Douglas Engelbart",
+            "Contribució": "Va realitzar 'La Mare de totes les demostracions', mostrant tecnologies avançades com la videoconferència, l'edició col·laborativa i el processament de textos.",
+            "URL": "https://en.wikipedia.org/wiki/The_Mother_of_All_Demos"
+        },
+        {
+            "Any": "1972",
+            "Teòric": "Alan Kay",
+            "Contribució": "Va proposar el concepte del 'Dynabook', un ordinador personal portàtil orientat a l'educació, precursor de les tauletes modernes.",
+            "URL": "https://en.wikipedia.org/wiki/Dynabook"
+        },
+        {
+            "Any": "1972",
+            "Teòric": "Alan Kay",
+            "Contribució": "Va desenvolupar el llenguatge de programació Smalltalk, pioner en la programació orientada a objectes.",
+            "URL": "https://en.wikipedia.org/wiki/Smalltalk"
+        },
+        {
+            "Any": "1973",
+            "Teòric": "Alan Kay",
+            "Contribució": "Va contribuir al desenvolupament de l'Xerox Alto, un dels primers ordinadors personals amb interfície gràfica d'usuari.",
+            "URL": "https://en.wikipedia.org/wiki/Xerox_Alto"
+        },
+        {
+            "Any": "1980",
             "Teòric": "Donald Norman",
-            "Contribució": "Va popularitzar el concepte de 'disseny centrat en l'usuari' i va escriure 'The Design of Everyday Things'."
+            "Contribució": "Va introduir i popularitzar el concepte de disseny centrat en l'usuari, enfocant el disseny de productes en les necessitats i limitacions dels usuaris.",
+            "URL": "https://en.wikipedia.org/wiki/Don_Norman"
         },
         {
-            "Any": "1990s",
+            "Any": "1988",
+            "Teòric": "Donald Norman",
+            "Contribució": "Va publicar 'The Design of Everyday Things', establint principis clau per al disseny centrat en l'usuari i la usabilitat.",
+            "URL": "https://www.jnd.org/books/the-design-of-everyday-things-revised-and-expanded-edition/"
+        },
+        {
+            "Any": "1990",
             "Teòric": "Jakob Nielsen",
-            "Contribució": "Conegut com el 'guru de la usabilitat', va establir principis i heurístiques per avaluar la usabilitat de les interfícies."
+            "Contribució": "Va desenvolupar el mètode d'avaluació heurística per millorar la usabilitat en interfícies d'usuari.",
+            "URL": "https://www.nngroup.com/articles/ten-usability-heuristics/"
+        },
+        {
+            "Any": "1993",
+            "Teòric": "Jakob Nielsen",
+            "Contribució": "Va publicar el llibre 'Usability Engineering', establint principis clau per al disseny centrat en l'usuari.",
+            "URL": "https://www.nngroup.com/books/usability-engineering/"
+        },
+        {
+            "Any": "1998",
+            "Teòric": "Donald Norman",
+            "Contribució": "Va cofundar el Nielsen Norman Group, una empresa líder en consultoria de usabilitat i experiència d'usuari.",
+            "URL": "https://www.nngroup.com/"
         },
         {
             "Any": "2000s",
             "Teòric": "Steve Krug",
-            "Contribució": "Autor de 'Don't Make Me Think', enfocant-se en la simplicitat i claredat en el disseny web."
+            "Contribució": "Autor de 'Don't Make Me Think', enfocant-se en la simplicitat i claredat en el disseny web.",
+            "URL": "https://sensible.com/dont-make-me-think/"
         },
         {
             "Any": "2010s",
             "Teòric": "Jesse James Garrett",
-            "Contribució": "Va introduir el concepte d'Experiència d'Usuari (UX) amb el seu llibre 'The Elements of User Experience'."
+            "Contribució": "Va introduir el concepte d'Experiència d'Usuari (UX) amb el seu llibre 'The Elements of User Experience'.",
+            "URL": "https://jessejamesgarrett.com/"
         }
     ]
 }

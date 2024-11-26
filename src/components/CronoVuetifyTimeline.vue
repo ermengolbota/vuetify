@@ -3,9 +3,9 @@
     <v-timeline class="cronograma" justify="auto" align="start">
         <v-timeline-item class="fitxa" dot-color="purple-lighten-2" v-for="fitxa in dades" :key="fitxa.Any">
             <template v-slot:opposite>
-                <div class="teoric text-h4">{{ fitxa.Teòric }} </div>
+                <div class="any text-h4">{{ fitxa.Any }}</div>
             </template>
-            <div class="any">{{ fitxa.Any }}</div>
+            <div class="teoric text-h5">{{ fitxa.Teòric }} </div>
             <div class="contribucio"> {{ fitxa.Contribució }}</div>
         </v-timeline-item>
     </v-timeline>
